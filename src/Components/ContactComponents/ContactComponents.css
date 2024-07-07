@@ -1,0 +1,86 @@
+/* #contact {
+    background: black;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    color: blue;
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: center;
+   
+    gap: 4rem;
+  }
+  
+  .contact-container a {
+    color: white;
+    transition: transform 0.3s, color 0.3s;
+  }
+  
+  .contact-container a:hover {
+    transform: scale(1.1);
+  }
+  
+  .contact-container a[href*="mailto"]:hover {
+    color: plum; 
+  }
+  
+  .contact-container a[href*="tel"]:hover {
+    color:  plum; 
+  }
+  
+  .contact-container a[href*="linkedin"]:hover {
+    color:  plum; 
+  }
+  .contact-container a[href*="github"]:hover {
+    color:  plum;
+  }
+   */
+   #contact {
+    background: black;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    color: white;
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+  }
+  
+  .contact-container a {
+    color: white;
+    transition: transform 0.3s, color 0.3s;
+  }
+  
+  .contact-container a:hover {
+    transform: scale(1.1);
+  }
+  
+  .contact-container a[href*="mailto"]:hover {
+    color: plum; /* Gmail color */
+  }
+  
+  .contact-container a[href*="tel"]:hover {
+    color: plum; /* GitHub color */
+  }
+  
+  .contact-container a[href*="linkedin"]:hover {
+    color: plum; /* LinkedIn color */
+  }
+  
+  .contact-container a[href*="github"]:hover {
+    color: plum; /* GitHub color */
+  }
+  

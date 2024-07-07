@@ -1,0 +1,137 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 4rem 0;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 1rem;
+  }
+  
+  #certifications {
+    background: #f4f4f4;
+    padding: 2rem 0;
+  }
+  
+  #certifications h2 {
+    margin-bottom: 2rem;
+    color: blue;
+  }
+  
+  .certify {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+  .certify img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+    
+  }
+  
+  .certify img:hover {
+    transform: scale(1.1);
+  }
+   */
+   body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+  }
+  
+  header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 4rem 0;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 1rem;
+    color: blue;
+  }
+  
+  #certifications {
+    background: black;
+    padding: 2rem 0;
+    color: black;
+  }
+  
+  #certifications h2 {
+    margin-bottom: 2rem;
+    color: white;
+  }
+  
+  .certify {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+  .certify img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+  }
+  
+  .certify img:hover {
+    transform: scale(1.1);
+  }
+  

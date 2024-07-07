@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(7, 7, 7);
+}
+.abt
+{ border: 20px;
+    text-align: center;
+   color: white;
+    font-size: 25px;
+     padding: 10px;
+    margin: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.abt h2{
+    color: white;
+}
+.abt p{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+    padding: 10px;
+
+}
